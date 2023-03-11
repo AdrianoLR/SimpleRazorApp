@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "NYXiALBsdDLaomdtrzDt3AIiGash3iNoy5JMATjTKbk=",
+  "Source": "RazorApp",
+  "BasePath": "_content/RazorApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RazorApp\\wwwroot",
+      "Source": "RazorApp",
+      "ContentRoot": "C:\\Users\\NAVE\\source\\repos\\RazorApp\\wwwroot\\",
+      "BasePath": "_content/RazorApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\NAVE\\source\\repos\\RazorApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\RazorApp.styles.css",
+      "SourceId": "RazorApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\NAVE\\source\\repos\\RazorApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/RazorApp",
+      "RelativePath": "RazorApp.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\NAVE\\source\\repos\\RazorApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\RazorApp.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\NAVE\\source\\repos\\RazorApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\RazorApp.bundle.scp.css",
+      "SourceId": "RazorApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\NAVE\\source\\repos\\RazorApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/RazorApp",
+      "RelativePath": "RazorApp.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\NAVE\\source\\repos\\RazorApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\RazorApp.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\NAVE\\source\\repos\\RazorApp\\wwwroot\\js\\site.js",
+      "SourceId": "RazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\NAVE\\source\\repos\\RazorApp\\wwwroot\\",
+      "BasePath": "_content/RazorApp",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
+}
